@@ -9,10 +9,7 @@ public class tienda {
 		Ventas vend1=new Ventas(1,"manzana");
 		Ventas vend2=new Ventas(2,"pera");
 		Ventas vend3=new Ventas(3,"melon");
-		String	art01=vend1.toString();
-	
-
-		
+			
 	
 		System.out.println(vend1);	
 		System.out.println(vend2);
